@@ -81,7 +81,7 @@ st.write("BMI (Body Mass Index) is a measure of body fat based on height and wei
 st.write("It helps categorize individuals into different weight categories.")
 
 st.markdown("---")
-st.write("Developed with ❤️ Nasir")
+st.write("Developed By ❤️ Nasir")
 
 
 
